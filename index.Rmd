@@ -35,17 +35,17 @@ library(servr)     # to preview the book
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, cache = FALSE, fig.align="left")
 ```
 
-```{r out.width = "100%", fig.align ="center"}
+```{r out.width = "80%", fig.align ="center"}
 knitr::include_graphics("images/logo.png")
 ```
 
 ## Liebe Bikerinnen und Biker {-}
 
-Diese automatische Kamera dient zur Zählung von Outdooraktivitäten. Diese Aktion ist Teil eines Forschungsprojekts an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) und des Kantons Schwyz in Zusammenarbeit mit der Korporation Wollerau. Das Ziel dieses Projekts ist die Förderung eines naturorientierten Outdoorsports.
+Diese automatische optische Kamera dient zur Zählung von Outdooraktivitäten. Diese Aktion ist Teil eines Forschungsprojekts an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) und des Kantons Schwyz (Wildhüter Matthias Oechslin) in Zusammenarbeit mit der Waldkorporation Wollerau (Betriebsfördter Pirmin Schuler). Das Ziel dieses Projekts ist die Förderung eines naturorientierten Outdoorsports.
 
 ## Datenschutz {-}
 
-Durch eine automatische Weichzeichnung der Kamerabilder können Gesichter und Personen nicht erkannt werden. Die Bilder werden nach der Bearbeitung gelöscht und der Kamerazugang ist mit Code und Schloss gesichert. 
+Dieses Zählgerät erfasst keine Personendaten. Durch eine automatische Weichzeichnung der Kamerabilder können Gesichter und Personen nicht erkannt werden. Die Bilder werden nach der Bearbeitung gelöscht und der Zugang zur Kamera ist mit Code und Schloss gesichert. 
 
 ```{r out.width = "100%", fig.align ="center"}
 knitr::include_graphics("images/E-MTB.jpg")
