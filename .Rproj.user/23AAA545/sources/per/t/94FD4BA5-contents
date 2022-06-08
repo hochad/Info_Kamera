@@ -1,0 +1,8 @@
+book_filename: "Information"
+delete_merged_file: true
+language:
+  label:
+    fig: "Abbildung "
+    tab: "Tabelle "
+    chapter_name: ""
+output_dir: "docs"

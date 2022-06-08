@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      scroll_highlight: yes
+      collaps: section
+      before: |
+        <img src="images/logo.png" alt="ZHAW Logo" width="300">
+      after: |
+      toolbar:
+        position: fixed
+      search: no
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+    latex_engine: xelatex
+    citation_package: natbib 
+  keep_tex: yes
