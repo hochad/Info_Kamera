@@ -1,7 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
-    toc:
+    toc: 
       scroll_highlight: yes
       collaps: section
       before: |
