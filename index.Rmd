@@ -41,7 +41,7 @@ knitr::include_graphics("images/logo.png")
 
 ## Liebe Bikerinnen und Biker {-}
 
-Diese automatische optische Kamera dient zur Zählung von Outdooraktivitäten. Diese Aktion ist Teil eines Forschungsprojekts an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) und des Kantons Schwyz (Wildhüter Matthias Oechslin) in Zusammenarbeit mit der Waldkorporation Wollerau (Betriebsförster Pirmin Schuler). Das Ziel dieses Projekts ist die Förderung eines naturorientierten Outdoorsports.
+Diese automatische optische Kamera dient zur Zählung von Outdooraktivitäten. Diese Aktion ist Teil eines Forschungsprojekts an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) und des Kantons Schwyz (Wildhüter Matthias Oechslin) in Zusammenarbeit mit der Waldkorporation Wollerau (Betriebsförster Pirmin Schuler). Das Ziel dieses Projekts ist die Lenkung des naturorientierten Outdoorsports.
 
 ## Datenschutz {-}
 
